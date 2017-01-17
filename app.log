@@ -1,0 +1,6 @@
+2017-01-12 11:55:36.836  INFO 11320 --- [main] com.capital.dragon.FtpApplication        : Starting FtpApplication on OSETSKIY-PC3 with PID 11320 (D:\Java\work\demo\target\classes started by osetskiy in D:\Java\work\demo)
+2017-01-12 11:55:36.840  INFO 11320 --- [main] com.capital.dragon.FtpApplication        : No active profile set, falling back to default profiles: default
+2017-01-12 11:55:36.942  INFO 11320 --- [main] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@61ca2dfa: startup date [Thu Jan 12 11:55:36 EET 2017]; root of context hierarchy
+2017-01-12 11:55:38.649  INFO 11320 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2017-01-12 11:55:38.662  INFO 11320 --- [main] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2017-01-12 11:55:41.173  INFO 11320 --- [main] com.capital.dragon.FtpApplication        : Started FtpApplication in 4.84 seconds (JVM running for 5.407)
